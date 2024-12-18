@@ -35,7 +35,7 @@ public class Cuadrado extends AppCompatActivity {
             return insets;
         });
 
-        cargar=findViewById(R.id.btnCuadrado);
+        cargar=findViewById(R.id.btnCuad);
         rest=findViewById(R.id.txtCuad);
         lado=findViewById(R.id.txtLadoC);
 
